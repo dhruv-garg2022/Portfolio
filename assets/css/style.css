@@ -957,3 +957,8 @@ h4,h6{
   color: #173b6c;
   font-weight: bold;
 }
+
+#skills img{
+  width: 150px;
+  height:90px;
+}
